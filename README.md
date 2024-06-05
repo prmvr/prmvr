@@ -1,6 +1,6 @@
 ## 
+<!--![homer-simpson](https://github.com/prmvr/prmvr/assets/69093808/15e1ef41-3360-488d-8d05-d067d957c3ea)
 
-<!--
 **prmvr/prmvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
